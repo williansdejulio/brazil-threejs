@@ -1,9 +1,9 @@
 {
-  "name": "threejs-react-integration-tips-2019",
-  "version": "1.0.0",
-  "description": "",
+  "name": "brazil-threejs",
+  "version": "0.1.0",
+  "description": "Simple React application using Three.js to draw Brazil with 3D cubes.",
   "keywords": [],
-  "main": "src/boot.js",
+  "main": "src/index.js",
   "dependencies": {
     "react": "16.8.6",
     "react-dom": "16.8.6",
